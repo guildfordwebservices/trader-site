@@ -1,7 +1,7 @@
 
 ### See this template in action!
 
-[Actor Resume](https://guildfordwebservices.github.io/trader-site/)
+[Trader Template](https://guildfordwebservices.github.io/trader-site/)
 
 ### Trader's Template
  A Traders basic template using Bootstrap
